@@ -1,2 +1,2 @@
-# nlp_vis
+# NLP Visualizations
 Notebook which is described in Medium Article: 
